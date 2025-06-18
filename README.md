@@ -5,7 +5,7 @@ Ce script a la particularité d'avoir été fait 100 % par ChatGPT. C'est un pet
 
 # Preview
 
- - [Ressource Preview](Soon) 
+ - [Ressource Preview]([Cliquez Ici](https://youtu.be/IESXUAWdOk0)) 
 
 
 # Installation
@@ -19,6 +19,10 @@ start bonus-unique
 - Modifiez la somme souhaitée ou les notifications dans le fichier `server.lua`
 
 Si vous avez besoin d'aide pour l'installation : [https://discord.gg/Q3aYWsnEpv](https://discord.gg/Q3aYWsnEpv)
+
+# Hébergement
+
+Si vous êtes à la recherche d'un hébergeur FiveM fiable, je suis le propriétaire du [meilleur hébergeur FiveM](https://hanohost.fr/) HanoHost Hébergement ! 
 
 # Author 
 
