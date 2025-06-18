@@ -1,4 +1,4 @@
-# bonus-unique
+# bonus-unique - 100% fait sur ChatGPT modèle 4.0
 
 Bonjour à tous, je vous présente aujourd'hui ce petit script qui permet à vos joueurs de gagner 5000 $ en effectuant une commande ! Vous pouvez cacher, par exemple, cette commande dans le règlement de votre serveur pour récompenser ceux qui le lisent réellement :)
 Ce script a la particularité d'avoir été fait 100 % par ChatGPT. C'est un petit projet destiné à la vidéo de WayZe.
@@ -9,6 +9,7 @@ Ce script a la particularité d'avoir été fait 100 % par ChatGPT. C'est un pet
 
 
 # Installation
+- Importez le contenu du fichier SQL dans votre base de données,
 - Importez `bonus-unique` dans votre serveur,
 - Ajouter cela à votre `server.cfg`:
 
